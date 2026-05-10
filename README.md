@@ -4,7 +4,7 @@
 <!-- Animated greeting banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0ea5e9&height=200&section=header&text=Kamogelo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Customer+Experience+→+Tech+%7C+AI+%7C+IT&descAlignY=60&descSize=18&descColor=7dd3fc" alt="header" width="100%"/>
 
-<h2>👋 Hi there, I'm Kamogelo</h2>
+<h2>👋 Hi there, I'm Kamogelo Labase</h2>
 
 <p>
   <strong>Customer Experience Professional transitioning into Tech & AI</strong><br/>
